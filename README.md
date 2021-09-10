@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am a fullstack JavaScript developer from Sweden with experience in TypeScript, React and Node.js.
+Before becoming a developer I worked in Sales and Service as a Sales Teamleader and Kitchen Consultant. I found my passion for coding through hobby coding and my huge IT interest.
+Working in a team developing intuitive apps or services is what I love doing, and always strive to improve and learn new things.
+
+You can check out my portfolio at https://samuelekholm.com
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SamuelEkh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **SamuelEkh/SamuelEkh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
